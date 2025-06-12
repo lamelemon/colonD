@@ -1,0 +1,41 @@
+{
+  "$GMTileSet":"v1",
+  "%Name":"SolariaTiles",
+  "autoTileSets":[],
+  "macroPageTiles":{
+    "SerialiseHeight":11,
+    "SerialiseWidth":10,
+    "TileCompressedData":[
+      -42,0,5,97,0,98,0,99,-15,0,1,125,-3,0,1,127,-15,0,5,153,0,154,0,155,-16,0,7,158,0,102,0,210,0,130,
+    ],
+    "TileDataFormat":1,
+  },
+  "name":"SolariaTiles",
+  "out_columns":20,
+  "out_tilehborder":2,
+  "out_tilevborder":2,
+  "parent":{
+    "name":"Tile Sets",
+    "path":"folders/Tile Sets.yy",
+  },
+  "resourceType":"GMTileSet",
+  "resourceVersion":"2.0",
+  "spriteId":{
+    "name":"Solaria_Demo_Tiles",
+    "path":"sprites/Solaria_Demo_Tiles/Solaria_Demo_Tiles.yy",
+  },
+  "spriteNoExport":false,
+  "textureGroupId":{
+    "name":"Default",
+    "path":"texturegroups/Default",
+  },
+  "tileAnimationFrames":[],
+  "tileAnimationSpeed":15.0,
+  "tileHeight":16,
+  "tilehsep":0,
+  "tilevsep":0,
+  "tileWidth":16,
+  "tilexoff":0,
+  "tileyoff":0,
+  "tile_count":420,
+}
