@@ -7,7 +7,7 @@ with (JoystickHousing)
 	_move_y = joy_y / radius;
 }
 
-x += _move_x * var_movement_speed * delta_time / 1000000;
-y += _move_y * var_movement_speed * delta_time / 1000000;
+var_x_movement = _move_x * var_movement_speed * delta_time / 1000000;
+var_y_movement = _move_y * var_movement_speed * delta_time / 1000000;
 
-move_wrap(true, true, 0);
+move_and_collide(var_x_movement, var_y_movement, var_collision_tilemap)

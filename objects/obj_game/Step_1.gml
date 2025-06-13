@@ -10,6 +10,7 @@ for (var i = 0; i < _max_devices; i++)
 	
 	if (_ui_at_pos != noone && _held)
 	{
+		Array_occupied_inputs[i] = true;
 		_ui_at_pos.input(i, _touch_x, _touch_y);
 	}
 }

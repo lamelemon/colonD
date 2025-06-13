@@ -1,27 +1,27 @@
 {
   "$GMSprite":"",
-  "%Name":"sadfaceemoticon",
+  "%Name":"Mask_smilier",
   "bboxMode":0,
   "bbox_bottom":17,
   "bbox_left":13,
   "bbox_right":17,
-  "bbox_top":14,
+  "bbox_top":13,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"4b262ea7-1fb4-4364-a35d-ac85ef04804a","name":"4b262ea7-1fb4-4364-a35d-ac85ef04804a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"26af3025-9761-401b-a982-d9e81922d83f","name":"26af3025-9761-401b-a982-d9e81922d83f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":32,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"bd65dbef-f7d6-4529-80e2-4bea03d6a922","blendMode":0,"displayName":"default","isLocked":false,"name":"bd65dbef-f7d6-4529-80e2-4bea03d6a922","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"adfed34c-6488-4ffa-b2aa-2b87222337e2","blendMode":0,"displayName":"default","isLocked":false,"name":"adfed34c-6488-4ffa-b2aa-2b87222337e2","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"sadfaceemoticon",
+  "name":"Mask_smilier",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -33,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"sadfaceemoticon",
+    "%Name":"Mask_smilier",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"sadfaceemoticon",
+    "name":"Mask_smilier",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -71,8 +71,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"4b262ea7-1fb4-4364-a35d-ac85ef04804a","path":"sprites/sadfaceemoticon/sadfaceemoticon.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"51e93853-1f86-4558-8f31-491e0ce2f377","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"26af3025-9761-401b-a982-d9e81922d83f","path":"sprites/Mask_smilier/Mask_smilier.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"7cf40470-dcb5-4550-8cf3-3abceaa15a86","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
