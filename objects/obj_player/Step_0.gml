@@ -10,4 +10,4 @@ with (JoystickHousing)
 var_x_movement = _move_x * var_movement_speed * delta_time / 1000000;
 var_y_movement = _move_y * var_movement_speed * delta_time / 1000000;
 
-move_and_collide(var_x_movement, var_y_movement, var_collision_tilemap)
+global.player_collisions = move_and_collide(var_x_movement, var_y_movement, var_collision_tilemap);

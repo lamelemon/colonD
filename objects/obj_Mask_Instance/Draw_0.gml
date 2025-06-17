@@ -1,0 +1,1 @@
+draw_sprite(global.mask_data.sprite, 0, obj_player.x + var_offset_x, obj_player.y + var_offset_y);

@@ -82,9 +82,6 @@
   },
   "swatchColours":null,
   "swfPrecision":0.5,
-  "tags":[
-    "Mask",
-  ],
   "textureGroupId":{
     "name":"Default",
     "path":"texturegroups/Default",

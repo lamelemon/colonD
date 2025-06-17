@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"test",
+  "%Name":"Script_Global_Mask_Handler",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"test",
+  "name":"Script_Global_Mask_Handler",
   "parent":{
     "name":"Scripts",
     "path":"folders/Scripts.yy",

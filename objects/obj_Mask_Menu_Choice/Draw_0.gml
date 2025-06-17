@@ -1,12 +1,18 @@
-x = lerp(x, var_button_pos_x, 0.1);
-y = lerp(y, var_button_pos_y, 0.1);
 
-if (bool_returning && point_distance(x, y, var_origin_x, var_origin_y) < 1)
-{
+
+if (point_distance(x, y, var_button_pos_x, var_button_pos_y) < 1) {
 	x = var_button_pos_x;
 	y = var_button_pos_y;
 	
-	instance_destroy();
+	if (bool_returning)
+	{
+		instance_destroy();
+	}
+}
+
+else {
+	x = lerp(x, var_button_pos_x, 0.1);
+	y = lerp(y, var_button_pos_y, 0.1);
 }
 
 draw_self();

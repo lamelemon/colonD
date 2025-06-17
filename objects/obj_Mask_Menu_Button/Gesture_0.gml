@@ -1,8 +1,8 @@
-if (obj_Mask_Manager.bool_is_mask_ui_open)
+if (global.Mask_Manager.bool_is_mask_ui_open)
 {
-	obj_Mask_Manager.Mask_ui_closer()
+    Mask_ui_closer(global.Mask_Manager);
 }
 else
 {
-	obj_Mask_Manager.Mask_ui_opener()
+    Mask_ui_opener(global.Mask_Manager, self);
 }
