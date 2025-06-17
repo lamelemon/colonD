@@ -1,1 +1,0 @@
-draw_sprite(Mask_Base, 0, x, y);

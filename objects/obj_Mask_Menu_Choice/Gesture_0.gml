@@ -1,0 +1,1 @@
+obj_Mask_Manager.Mask_chosen( var_mask );
