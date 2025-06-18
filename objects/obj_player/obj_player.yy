@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"emoticonmcright",
-    "path":"sprites/emoticonmcright/emoticonmcright.yy",
+    "name":"player_character_idle",
+    "path":"sprites/player_character_idle/player_character_idle.yy",
   },
   "spriteMaskId":null,
   "visible":true,

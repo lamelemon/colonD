@@ -1,6 +1,6 @@
 if (touch_id != -1)
 {
-	if (device_mouse_check_button(touch_id, mb_left))
+	if (device_mouse_check_button(touch_id, mb_left) && !layer_get_visible("ESC_Menu"))
 	{
 		joy_x = device_mouse_x_to_gui(touch_id) - x;
 		joy_y = device_mouse_y_to_gui(touch_id) - y;

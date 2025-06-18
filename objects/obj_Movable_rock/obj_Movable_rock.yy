@@ -29,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"Sprite_Movable_rock",
+    "path":"sprites/Sprite_Movable_rock/Sprite_Movable_rock.yy",
+  },
   "spriteMaskId":null,
   "tags":[
     "Movable_rock",

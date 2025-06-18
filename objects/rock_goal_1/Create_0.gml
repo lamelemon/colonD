@@ -1,0 +1,1 @@
+global.goals2 = 0;
